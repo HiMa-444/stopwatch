@@ -1,0 +1,25 @@
+.container {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.texttime {
+  font-size: 30px;
+}
+
+.start-btn {
+  width: 80px;
+  height: 40px;
+}
+
+.stop-btn {
+  width: 80px;
+  height: 40px;
+}
+
+.reset-btn {
+  width: 80px;
+  height: 40px;
+}
